@@ -26,8 +26,11 @@ You can even change the background color by switching the "Toggle Color" to see 
 
 ## Screenshots
 
-![1](https://github.com/duruburak/Color-Extractor/assets/100048974/9b7e892b-7e0a-4e5f-93dd-f52527067b84)![2](https://github.com/duruburak/Color-Extractor/assets/100048974/6ae76b4a-823e-48a8-aebe-49bcb98f4bf2)
+![1](https://github.com/duruburak/Color-Extractor/assets/100048974/f25a4ad2-8f17-4213-b32c-26e474d296d2)
+![2](https://github.com/duruburak/Color-Extractor/assets/100048974/e9b42ece-e642-4e80-917e-6fa2c853e2f3)
 
-![3](https://github.com/duruburak/Color-Extractor/assets/100048974/48b46046-b358-4af3-8958-ebaaf5dfa0ea)
 
-![4](https://github.com/duruburak/Color-Extractor/assets/100048974/4e95d935-6d09-4ce3-8d10-31b932519770)
+![3](https://github.com/duruburak/Color-Extractor/assets/100048974/f9b4f3f4-a3c1-41aa-b566-59c4fc79c668)
+
+
+![4](https://github.com/duruburak/Color-Extractor/assets/100048974/a1fda8b8-bed0-42a4-ac4a-8e60e76b3b4e)
